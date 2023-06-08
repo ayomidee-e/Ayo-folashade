@@ -34,6 +34,6 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayo-folashade&hide_progress=true&theme=material-palenight&line_height=30&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayo-folashade&hide_progress=true&theme=discord_old_blurple&line_height=30&hide=css)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayo-folashade&hide=stars,prs,issues,contribs&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayo-folashade&hide=stars,prs,issues,contribs&show_icons=true&theme=discord_old_blurple)
