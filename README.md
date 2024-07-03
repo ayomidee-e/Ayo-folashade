@@ -4,7 +4,7 @@
 
 
 
-👩‍💻 About Me: I am an AI Data Scientist passionate about developing cutting-edge ML and AI solutions.
+👩‍💻 About Me: I am an Machine Learning Engineer passionate about developing cutting-edge ML and AI solutions.
 
 🔭 I specialize in creating robust algorithms and models that drive impactful outcomes.
 
