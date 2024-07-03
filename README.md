@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/120118911/244463775-24efe1f2-c331-46cf-8da1-52b08aab4653.jpg" alt="My Banner">
+  <img src="https://github.com/Ayo-folashade/Ayo-folashade/assets/120118911/449ed6cc-d38e-41c2-bbd4-f3a10b11892a.jpg" alt="My Banner">
 </p>
+
 
 
 
